@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+changig content to same file
+=======
+hisbranchcontent
+>>>>>>> his-branch
